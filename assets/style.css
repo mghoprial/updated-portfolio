@@ -1,0 +1,16 @@
+body {
+background: url(../assets/images/34779.jpg);
+background-repeat: no-repeat;
+background-size:  100%;
+background-color: rgb(97, 0, 97);
+}
+
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: white;
+}
